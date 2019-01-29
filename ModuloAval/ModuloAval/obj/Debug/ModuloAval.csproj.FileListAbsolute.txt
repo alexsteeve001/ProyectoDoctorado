@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\ModuloAval\ModuloAval\bin\Debug\ModuloAval.exe.config
+C:\Users\User\Desktop\ModuloAval\ModuloAval\bin\Debug\ModuloAval.exe
+C:\Users\User\Desktop\ModuloAval\ModuloAval\bin\Debug\ModuloAval.pdb
+C:\Users\User\Desktop\ModuloAval\ModuloAval\obj\Debug\ModuloAval.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ModuloAval\ModuloAval\obj\Debug\ModuloAval.Properties.Resources.resources
+C:\Users\User\Desktop\ModuloAval\ModuloAval\obj\Debug\ModuloAval.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ModuloAval\ModuloAval\obj\Debug\ModuloAval.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ModuloAval\ModuloAval\obj\Debug\ModuloAval.exe
+C:\Users\User\Desktop\ModuloAval\ModuloAval\obj\Debug\ModuloAval.pdb
+C:\Users\User\Desktop\ModuloAval\ModuloAval\obj\Debug\ModuloAval.ListaEstudiantes.resources
+C:\Users\User\Desktop\ModuloAval\ModuloAval\obj\Debug\ModuloAval.AvalarMatricula.resources
+C:\Users\User\Desktop\ModuloAval\ModuloAval\obj\Debug\ModuloAval.AvalarPresentacion.resources
+C:\Users\User\Desktop\Proyectos C#\ModuloAval\ModuloAval\bin\Debug\ModuloAval.exe.config
+C:\Users\User\Desktop\Proyectos C#\ModuloAval\ModuloAval\bin\Debug\ModuloAval.exe
+C:\Users\User\Desktop\Proyectos C#\ModuloAval\ModuloAval\bin\Debug\ModuloAval.pdb
+C:\Users\User\Desktop\Proyectos C#\ModuloAval\ModuloAval\obj\Debug\ModuloAval.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Proyectos C#\ModuloAval\ModuloAval\obj\Debug\ModuloAval.Properties.Resources.resources
+C:\Users\User\Desktop\Proyectos C#\ModuloAval\ModuloAval\obj\Debug\ModuloAval.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proyectos C#\ModuloAval\ModuloAval\obj\Debug\ModuloAval.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyectos C#\ModuloAval\ModuloAval\obj\Debug\ModuloAval.exe
+C:\Users\User\Desktop\Proyectos C#\ModuloAval\ModuloAval\obj\Debug\ModuloAval.pdb
+C:\Users\User\Desktop\Proyectos C#\ModuloAval\ModuloAval\obj\Debug\ModuloAval.Presentacion.resources
+C:\Users\User\Desktop\Proyectos C#\ModuloAval\ModuloAval\obj\Debug\ModuloAval.AvalMatricula.resources
+C:\Users\User\Desktop\Proyectos C#\ModuloAval\ModuloAval\obj\Debug\ModuloAval.AvalPresentacion.resources
+D:\Nueva carpeta\ProyectoDoctorado\ModuloAval\ModuloAval\bin\Debug\ModuloAval.exe.config
+D:\Nueva carpeta\ProyectoDoctorado\ModuloAval\ModuloAval\bin\Debug\ModuloAval.exe
+D:\Nueva carpeta\ProyectoDoctorado\ModuloAval\ModuloAval\bin\Debug\ModuloAval.pdb
+D:\Nueva carpeta\ProyectoDoctorado\ModuloAval\ModuloAval\obj\Debug\ModuloAval.csprojAssemblyReference.cache
+D:\Nueva carpeta\ProyectoDoctorado\ModuloAval\ModuloAval\obj\Debug\ModuloAval.AvalMatricula.resources
+D:\Nueva carpeta\ProyectoDoctorado\ModuloAval\ModuloAval\obj\Debug\ModuloAval.AvalPresentacion.resources
+D:\Nueva carpeta\ProyectoDoctorado\ModuloAval\ModuloAval\obj\Debug\ModuloAval.Presentacion.resources
+D:\Nueva carpeta\ProyectoDoctorado\ModuloAval\ModuloAval\obj\Debug\ModuloAval.Properties.Resources.resources
+D:\Nueva carpeta\ProyectoDoctorado\ModuloAval\ModuloAval\obj\Debug\ModuloAval.csproj.GenerateResource.cache
+D:\Nueva carpeta\ProyectoDoctorado\ModuloAval\ModuloAval\obj\Debug\ModuloAval.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\ProyectoDoctorado\ModuloAval\ModuloAval\obj\Debug\ModuloAval.exe
+D:\Nueva carpeta\ProyectoDoctorado\ModuloAval\ModuloAval\obj\Debug\ModuloAval.pdb
